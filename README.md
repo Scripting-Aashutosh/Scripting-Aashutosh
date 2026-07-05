@@ -42,4 +42,6 @@ Email Me 👉 ✉️ **aashutoshgupta600@gmail.com** For Collaboration/Project o
 ---
 [![](https://visitcount.itsvg.in/api?id=Scripting-Aashutosh&icon=6&color=0)](https://visitcount.itsvg.in)
 
+[![My GitFut card](https://gitfut.com/scripting-Aashutosh)]
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
