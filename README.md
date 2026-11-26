@@ -1,4 +1,12 @@
-# 💫 Hi 👋, I'm Aashutosh gupta
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Aashutosh Gupta</h1>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="light_mode (1).svg" />
+  <img alt="Scripting-Aashutosh's GitHub profile" src="dark_mode.svg" />
+</picture>
+
+## 📌 About Me
 **A passionate Frontend Developer || Web Developer and Design ||  Currently Learning Backend**
 
 Email Me 👉 ✉️ **aashutoshgupta600@gmail.com** For Collaboration/Project or Anything Else. 😊😊
@@ -13,35 +21,165 @@ Email Me 👉 ✉️ **aashutoshgupta600@gmail.com** For Collaboration/Project o
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
-## 🌐 Socials:
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Aashutoshdev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aashutoshgupta600@gmail.com) 
+<!-- ================= TECH STACK BENTO GRID ================= -->
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Scripting-Aashutosh&theme=panda&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Scripting-Aashutosh&theme=panda&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Scripting-Aashutosh&theme=panda&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<h2 align="center">💻 Tech Stack & Technologies</h2>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Scripting-Aashutosh&theme=panda&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <em>My developer toolkit — technologies I use to build modern applications.</em>
+</p>
+
+<table width="100%" align="center">
+<tr>
+<td width="50%" valign="top">
+
+<h3>⚡ Programming Languages</h3>
+
+<img src="https://skillicons.dev/icons?i=java,html,css,js,ts&theme=dark" />
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🎨 Frontend Development</h3>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite&theme=dark" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>⚙️ Backend Development</h3>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,ejs&theme=dark" />
+
+<br/>
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🗄️ Database & ORM</h3>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,prisma,firebase&theme=dark" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🧩 Libraries & Frameworks</h3>
+
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=threedotjs&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🛠️ Tools & Deployment</h3>
+
+<img src="https://skillicons.dev/icons?i=npm,vercel,framer&theme=dark" />
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:7C3AED,100:EC4899&height=3&section=header" width="100%" alt="Gradient divider"/>
+</p>
+
+<p align="center">
+  <sub>⚡ Always exploring new technologies and building better things.</sub>
+</p>
+
+<!-- ================= END TECH STACK ================= -->
 
 
-<!-- Snake Game Repo View -->
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="280em" src="https://www.gitskins.com/api/section/stats?username=scripting-aashutosh&theme=github-dark&mode=dark"/>
+
+<img height="280em" src="https://www.gitskins.com/api/section/stack?username=scripting-aashutosh&theme=github-dark&mode=dark"/>
+
+</p>
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=scripting-aashutosh&theme=tokyonight"/>
+
+</p>
+
+## 🏆 `> unlock --achievements`
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+<img src="https://github-trophies.vercel.app/?username=scripting-aashutosh&theme=matrix&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+
 </div>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Scripting-Aashutosh&limit=5&theme=panda&combine_all_yearly_contributions=true)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=scripting-aashutosh&theme=github-dark&mode=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=scripting-aashutosh&theme=github-dark&mode=dark" />
+  <img alt="github-snake" src="https://www.gitskins.com/api/section/heatmap?username=scripting-aashutosh&theme=github-dark&mode=dark" />
+</picture>
+
+## 🔗 Connect with Me
 ---
-[![](https://visitcount.itsvg.in/api?id=Scripting-Aashutosh&icon=6&color=0)](https://visitcount.itsvg.in)
 
-[![My GitFut card](https://gitfut.com/Scripting-Aashutosh-gitfut-story.png)](https://gitfut.com/Scripting-Aashutosh)
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312E81,100:2563EB&height=180&section=header&text=LET'S%20CONNECT&fontSize=38&fontColor=FFFFFF&fontAlignY=45&desc=Have%20an%20idea%3F%20Let's%20build%20something%20great.&descSize=15&descAlignY=68&descColor=CBD5E1" alt="Let's Connect"/>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="center">🤝 Let's Create Something Meaningful</h2>
+
+<p align="center">
+  I'm always open to connecting with developers, collaborating on exciting projects, and exploring new opportunities.
+</p>
+
+<p align="center">
+  <strong>💼 Open to Opportunities &nbsp; | &nbsp; 🚀 Collaboration &nbsp; | &nbsp; 💡 Ideas</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:YOUR-EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/scripting-aashutosh">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <em>"Great things are built when creativity meets code."</em>
+</p>
+
+<p align="center">
+  <sub>© 2026 Aashutosh Gupta · Crafted with ❤️ and Code</sub>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:312E81,100:111827&height=120&section=footer" alt="Downward gradient wave footer"/>
+</p>
+
+<div align="center">
+  <!---->
+</div>
